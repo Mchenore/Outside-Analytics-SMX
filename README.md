@@ -1,3 +1,5 @@
 # Outside-Analytics-SMX Elevator Challenge
 
-## Run the elevator.py script to see the time it takes an elevator to travel a given number of floors given a constant time variable.
+## Landing point for elevator challenge posed by Outside Analytics (SXM)
+
+### The elevator script is housed in the [elevator directory](https://github.com/Mchenore/Outside-Analytics-SMX/tree/main/elevator)
